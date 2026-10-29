@@ -1,0 +1,140 @@
+2026-10-30 03:17:38,953 | ERROR | Category collection failed: Games
+Traceback (most recent call last):
+  File "D:\OneDrive - BIRLA INSTITUTE OF TECHNOLOGY and SCIENCE\Desktop\Resume projects ALL\Apple Design\india_app_category_gaming_tracker\src\collector.py", line 143, in main
+    observations.extend(fetch_chart(
+                        ~~~~~~~~~~~^
+        country, chart, limit, item["name"], int(item["genre_id"]), collected_at
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ))
+    ^
+  File "D:\OneDrive - BIRLA INSTITUTE OF TECHNOLOGY and SCIENCE\Desktop\Resume projects ALL\Apple Design\india_app_category_gaming_tracker\src\collector.py", line 79, in fetch_chart
+    parse_entry(e, category, country, chart, i, collected_at)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\OneDrive - BIRLA INSTITUTE OF TECHNOLOGY and SCIENCE\Desktop\Resume projects ALL\Apple Design\india_app_category_gaming_tracker\src\collector.py", line 65, in parse_entry
+    "app_url": attrs.get("href") or link.get("attributes", {}).get("href"),
+                                    ^^^^^^^^
+AttributeError: 'list' object has no attribute 'get'
+2026-10-30 03:17:41,134 | ERROR | Category collection failed: Social Networking
+Traceback (most recent call last):
+  File "D:\OneDrive - BIRLA INSTITUTE OF TECHNOLOGY and SCIENCE\Desktop\Resume projects ALL\Apple Design\india_app_category_gaming_tracker\src\collector.py", line 143, in main
+    observations.extend(fetch_chart(
+                        ~~~~~~~~~~~^
+        country, chart, limit, item["name"], int(item["genre_id"]), collected_at
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ))
+    ^
+  File "D:\OneDrive - BIRLA INSTITUTE OF TECHNOLOGY and SCIENCE\Desktop\Resume projects ALL\Apple Design\india_app_category_gaming_tracker\src\collector.py", line 79, in fetch_chart
+    parse_entry(e, category, country, chart, i, collected_at)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\OneDrive - BIRLA INSTITUTE OF TECHNOLOGY and SCIENCE\Desktop\Resume projects ALL\Apple Design\india_app_category_gaming_tracker\src\collector.py", line 65, in parse_entry
+    "app_url": attrs.get("href") or link.get("attributes", {}).get("href"),
+                                    ^^^^^^^^
+AttributeError: 'list' object has no attribute 'get'
+2026-10-30 03:17:43,346 | ERROR | Category collection failed: Entertainment
+Traceback (most recent call last):
+  File "D:\OneDrive - BIRLA INSTITUTE OF TECHNOLOGY and SCIENCE\Desktop\Resume projects ALL\Apple Design\india_app_category_gaming_tracker\src\collector.py", line 143, in main
+    observations.extend(fetch_chart(
+                        ~~~~~~~~~~~^
+        country, chart, limit, item["name"], int(item["genre_id"]), collected_at
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ))
+    ^
+  File "D:\OneDrive - BIRLA INSTITUTE OF TECHNOLOGY and SCIENCE\Desktop\Resume projects ALL\Apple Design\india_app_category_gaming_tracker\src\collector.py", line 79, in fetch_chart
+    parse_entry(e, category, country, chart, i, collected_at)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\OneDrive - BIRLA INSTITUTE OF TECHNOLOGY and SCIENCE\Desktop\Resume projects ALL\Apple Design\india_app_category_gaming_tracker\src\collector.py", line 65, in parse_entry
+    "app_url": attrs.get("href") or link.get("attributes", {}).get("href"),
+                                    ^^^^^^^^
+AttributeError: 'list' object has no attribute 'get'
+2026-10-30 03:17:45,668 | ERROR | Category collection failed: Photo & Video
+Traceback (most recent call last):
+  File "D:\OneDrive - BIRLA INSTITUTE OF TECHNOLOGY and SCIENCE\Desktop\Resume projects ALL\Apple Design\india_app_category_gaming_tracker\src\collector.py", line 143, in main
+    observations.extend(fetch_chart(
+                        ~~~~~~~~~~~^
+        country, chart, limit, item["name"], int(item["genre_id"]), collected_at
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ))
+    ^
+  File "D:\OneDrive - BIRLA INSTITUTE OF TECHNOLOGY and SCIENCE\Desktop\Resume projects ALL\Apple Design\india_app_category_gaming_tracker\src\collector.py", line 79, in fetch_chart
+    parse_entry(e, category, country, chart, i, collected_at)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\OneDrive - BIRLA INSTITUTE OF TECHNOLOGY and SCIENCE\Desktop\Resume projects ALL\Apple Design\india_app_category_gaming_tracker\src\collector.py", line 65, in parse_entry
+    "app_url": attrs.get("href") or link.get("attributes", {}).get("href"),
+                                    ^^^^^^^^
+AttributeError: 'list' object has no attribute 'get'
+2026-10-30 03:17:48,661 | ERROR | Category collection failed: Education
+Traceback (most recent call last):
+  File "D:\OneDrive - BIRLA INSTITUTE OF TECHNOLOGY and SCIENCE\Desktop\Resume projects ALL\Apple Design\india_app_category_gaming_tracker\src\collector.py", line 143, in main
+    observations.extend(fetch_chart(
+                        ~~~~~~~~~~~^
+        country, chart, limit, item["name"], int(item["genre_id"]), collected_at
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ))
+    ^
+  File "D:\OneDrive - BIRLA INSTITUTE OF TECHNOLOGY and SCIENCE\Desktop\Resume projects ALL\Apple Design\india_app_category_gaming_tracker\src\collector.py", line 79, in fetch_chart
+    parse_entry(e, category, country, chart, i, collected_at)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\OneDrive - BIRLA INSTITUTE OF TECHNOLOGY and SCIENCE\Desktop\Resume projects ALL\Apple Design\india_app_category_gaming_tracker\src\collector.py", line 65, in parse_entry
+    "app_url": attrs.get("href") or link.get("attributes", {}).get("href"),
+                                    ^^^^^^^^
+AttributeError: 'list' object has no attribute 'get'
+2026-10-30 03:17:51,246 | ERROR | Category collection failed: Health & Fitness
+Traceback (most recent call last):
+  File "D:\OneDrive - BIRLA INSTITUTE OF TECHNOLOGY and SCIENCE\Desktop\Resume projects ALL\Apple Design\india_app_category_gaming_tracker\src\collector.py", line 143, in main
+    observations.extend(fetch_chart(
+                        ~~~~~~~~~~~^
+        country, chart, limit, item["name"], int(item["genre_id"]), collected_at
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ))
+    ^
+  File "D:\OneDrive - BIRLA INSTITUTE OF TECHNOLOGY and SCIENCE\Desktop\Resume projects ALL\Apple Design\india_app_category_gaming_tracker\src\collector.py", line 79, in fetch_chart
+    parse_entry(e, category, country, chart, i, collected_at)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\OneDrive - BIRLA INSTITUTE OF TECHNOLOGY and SCIENCE\Desktop\Resume projects ALL\Apple Design\india_app_category_gaming_tracker\src\collector.py", line 65, in parse_entry
+    "app_url": attrs.get("href") or link.get("attributes", {}).get("href"),
+                                    ^^^^^^^^
+AttributeError: 'list' object has no attribute 'get'
+2026-10-30 03:17:53,412 | ERROR | Category collection failed: Finance
+Traceback (most recent call last):
+  File "D:\OneDrive - BIRLA INSTITUTE OF TECHNOLOGY and SCIENCE\Desktop\Resume projects ALL\Apple Design\india_app_category_gaming_tracker\src\collector.py", line 143, in main
+    observations.extend(fetch_chart(
+                        ~~~~~~~~~~~^
+        country, chart, limit, item["name"], int(item["genre_id"]), collected_at
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ))
+    ^
+  File "D:\OneDrive - BIRLA INSTITUTE OF TECHNOLOGY and SCIENCE\Desktop\Resume projects ALL\Apple Design\india_app_category_gaming_tracker\src\collector.py", line 79, in fetch_chart
+    parse_entry(e, category, country, chart, i, collected_at)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\OneDrive - BIRLA INSTITUTE OF TECHNOLOGY and SCIENCE\Desktop\Resume projects ALL\Apple Design\india_app_category_gaming_tracker\src\collector.py", line 65, in parse_entry
+    "app_url": attrs.get("href") or link.get("attributes", {}).get("href"),
+                                    ^^^^^^^^
+AttributeError: 'list' object has no attribute 'get'
+2026-10-30 03:17:55,266 | ERROR | Category collection failed: Lifestyle
+Traceback (most recent call last):
+  File "D:\OneDrive - BIRLA INSTITUTE OF TECHNOLOGY and SCIENCE\Desktop\Resume projects ALL\Apple Design\india_app_category_gaming_tracker\src\collector.py", line 143, in main
+    observations.extend(fetch_chart(
+                        ~~~~~~~~~~~^
+        country, chart, limit, item["name"], int(item["genre_id"]), collected_at
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ))
+    ^
+  File "D:\OneDrive - BIRLA INSTITUTE OF TECHNOLOGY and SCIENCE\Desktop\Resume projects ALL\Apple Design\india_app_category_gaming_tracker\src\collector.py", line 79, in fetch_chart
+    parse_entry(e, category, country, chart, i, collected_at)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\OneDrive - BIRLA INSTITUTE OF TECHNOLOGY and SCIENCE\Desktop\Resume projects ALL\Apple Design\india_app_category_gaming_tracker\src\collector.py", line 65, in parse_entry
+    "app_url": attrs.get("href") or link.get("attributes", {}).get("href"),
+                                    ^^^^^^^^
+AttributeError: 'list' object has no attribute 'get'
+2026-10-30 03:20:53,832 | INFO | Games: received 100 entries
+2026-10-30 03:20:54,470 | INFO | Social Networking: received 100 entries
+2026-10-30 03:20:55,088 | INFO | Entertainment: received 100 entries
+2026-10-30 03:20:55,735 | INFO | Photo & Video: received 100 entries
+2026-10-30 03:20:56,338 | INFO | Education: received 100 entries
+2026-10-30 03:20:56,992 | INFO | Health & Fitness: received 100 entries
+2026-10-30 03:20:57,620 | INFO | Finance: received 100 entries
+2026-10-30 03:20:58,226 | INFO | Lifestyle: received 100 entries
+2026-10-30 03:20:58,756 | INFO | Saved 800 observations to D:\OneDrive - BIRLA INSTITUTE OF TECHNOLOGY and SCIENCE\Desktop\Resume projects ALL\Apple Design\india_app_category_gaming_tracker\data\raw\chart_snapshots.csv
+2026-10-30 03:21:27,668 | INFO | Saved 800 metadata records to D:\OneDrive - BIRLA INSTITUTE OF TECHNOLOGY and SCIENCE\Desktop\Resume projects ALL\Apple Design\india_app_category_gaming_tracker\data\processed\app_metadata.csv
+2026-10-30 03:21:27,669 | INFO | All configured categories returned entries.
+2026-10-30 03:21:27,669 | INFO | Collection complete. Run: python -m src.analyze
