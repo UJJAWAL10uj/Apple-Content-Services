@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+data/raw/chart_snapshots.csv
+data/raw/collector.log
+data/raw/collection_errors.json
+data/processed/*.csv
+outputs/*.xlsx
+outputs/charts/*.png
+reports/latest_intelligence_report.md
