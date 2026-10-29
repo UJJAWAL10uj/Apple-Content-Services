@@ -1,0 +1,10 @@
+supplier_id,supplier_name,component_id,supplier_tier,india_based,public_capability_evidence,capacity_confidence_1_5,quality_readiness_1_5,geopolitical_risk_1_5,single_source_flag,notes,supplier_risk_score_0_100,evidence_status
+S001,Illustrative Supplier A,C01,Tier 1,Yes,Not yet verified,3,3,2,Yes,Synthetic record; replace with sourced supplier,68.8,Needs verification
+S002,Illustrative Supplier B,C01,Tier 2,Yes,Not yet verified,2,2,2,No,Synthetic record; replace with sourced supplier,70.0,Needs verification
+S003,Illustrative Supplier C,C02,Tier 2,Yes,Not yet verified,4,4,1,No,Synthetic record; replace with sourced supplier,32.5,Needs verification
+S004,Illustrative Supplier D,C03,Tier 1,Yes,Not yet verified,3,4,2,No,Synthetic record; replace with sourced supplier,46.2,Needs verification
+S005,Illustrative Supplier E,C04,Tier 1,Yes,Not yet verified,2,2,4,Yes,Synthetic record; replace with sourced supplier,95.0,Needs verification
+S006,Illustrative Supplier F,C05,Tier 2,Yes,Not yet verified,2,2,3,Yes,Synthetic record; replace with sourced supplier,90.0,Needs verification
+S007,Illustrative Supplier G,C06,Tier 2,Yes,Not yet verified,5,5,1,No,Synthetic record; replace with sourced supplier,16.2,Needs verification
+S008,Illustrative Supplier H,C07,Tier 1,Yes,Not yet verified,4,4,2,No,Synthetic record; replace with sourced supplier,37.5,Needs verification
+S009,Illustrative Supplier I,C08,Tier 1,Yes,Not yet verified,2,3,4,Yes,Synthetic record; replace with sourced supplier,87.5,Needs verification
