@@ -1,0 +1,6 @@
+source_id,entity_or_metric,source_type,source_url,publication_date,access_date,metric_supported,confidence,verification_status,notes
+SRC001,Import share by component,Government trade data / customs,ADD_URL,,,"Exact HS-code import value; component mapping must be documented",High,Not researched,Do not claim HS code maps perfectly to component without justification
+SRC002,India production / local capacity,Government / industry report / company filing,ADD_URL,,,"Production or capacity evidence with period and unit",Medium,Not researched,Separate installed capacity from actual output
+SRC003,Potential Indian suppliers,Company product pages / annual reports,ADD_URL,,,"Public evidence of relevant product capability",Medium,Not researched,Product capability does not prove available capacity or qualification
+SRC004,Geopolitical concentration,Trade data / country-of-origin data,ADD_URL,,,"Country concentration for relevant input or HS code",Medium,Not researched,Document country and period
+SRC005,Quality readiness,Certifications / IATF or ISO scope / company evidence,ADD_URL,,,"Relevant certification and scope",Medium,Not researched,Certification alone does not prove component-level quality performance

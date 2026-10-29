@@ -1,0 +1,9 @@
+component_id,component,system,illustrative_import_share_pct,illustrative_india_supplier_coverage,illustrative_single_source_exposure_pct,capacity_risk_1_5,geopolitical_concentration_risk_1_5,quality_readiness_gap_1_5,annual_demand_units,unit_cost_inr,confidence
+C01,Battery management system (BMS),Battery electronics,65,2,70,4,4,3,50000,4200,Illustrative only
+C02,Cell interconnects and busbars,Electrical interconnects,35,5,30,2,2,2,50000,850,Illustrative only
+C03,Module enclosure and end plates,Mechanical structure,45,4,40,3,3,2,50000,1250,Illustrative only
+C04,High-voltage connectors,Electrical interconnects,75,2,65,4,4,4,50000,680,Illustrative only
+C05,Thermal interface materials,Thermal management,60,2,60,4,3,4,50000,540,Illustrative only
+C06,Fasteners and mounting hardware,Mechanical structure,15,8,15,1,1,1,50000,120,Illustrative only
+C07,Module wiring harness,Electrical interconnects,40,5,35,2,2,2,50000,390,Illustrative only
+C08,Current sensors,Battery electronics,70,2,60,4,4,3,50000,950,Illustrative only
