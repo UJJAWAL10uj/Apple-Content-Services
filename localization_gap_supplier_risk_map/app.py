@@ -33,7 +33,7 @@ fig = px.bar(
     labels={"risk_score_0_100": "Screening risk score (0–100)", "component": ""},
     hover_data=["illustrative_import_share_pct", "illustrative_single_source_exposure_pct", "confidence"],
 )
-st.plotly_chart(fig, width=True)
+st.plotly_chart(fig, width="stretch")
 
 left, right = st.columns(2)
 with left:
@@ -46,16 +46,16 @@ with left:
             "illustrative_single_source_exposure_pct": "Illustrative single-source exposure (%)",
         },
     )
-    st.plotly_chart(scatter, width=True)
+    st.plotly_chart(scatter, width="stretch")
 with right:
     st.subheader("Top risk mitigations")
     st.dataframe(
         scored[["component", "risk_score_0_100", "risk_band", "recommended_mitigation"]].head(5),
-        width=True, hide_index=True
+        width="stretch", hide_index=True
     )
 
 st.subheader("Component-level data")
-st.dataframe(scored, width=True, hide_index=True)
+st.dataframe(scored, width="stretch", hide_index=True)
 
 st.subheader("Supplier risk register")
 st.caption("Supplier names in the starter data are placeholders, not real supplier recommendations.")
@@ -63,7 +63,7 @@ supplier_view = suppliers.copy()
 supplier_view["evidence_status"] = supplier_view["public_capability_evidence"].apply(
     lambda x: "Needs verification" if str(x).strip().lower() in {"not yet verified", "", "nan"} else "Evidence recorded"
 )
-st.dataframe(supplier_view, width=True, hide_index=True)
+st.dataframe(supplier_view, width="stretch", hide_index=True)
 
 st.subheader("Download current outputs")
 st.download_button(
