@@ -103,14 +103,12 @@ A collection of four data-driven projects exploring India's digital ecosystem, s
 ### Events and Themes
 - Diwali
 - Holi
-- Raksha Bandhan
-- Ganesh Chaturthi
-- Durga Puja and Navratri
-- Onam and Pongal
-- Eid al-Fitr
+- Pongal
+- Navratri
+- Onam
+- Eid
 - Christmas
-- Karwa Chauth
-- Makar Sankranti
+- IPL
 
 ### Project Highlights
 - Organizes festival keywords and event dates into structured datasets.
@@ -177,8 +175,6 @@ apple-focused-analytics-portfolio/
     ├── app.py
     └── README.md
 ```
-
-*Adjust filenames and folders to match the actual files in your repositories.*
 
 ## Key Takeaways
 
