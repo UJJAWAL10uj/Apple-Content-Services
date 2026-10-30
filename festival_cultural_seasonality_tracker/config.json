@@ -1,0 +1,32 @@
+{
+  "country": "in",
+  "chart_type": "topfreeapplications",
+  "chart_limit": 100,
+  "timeout_seconds": 30,
+  "categories": [
+    {
+      "name": "Games",
+      "genre_id": 6014
+    },
+    {
+      "name": "Entertainment",
+      "genre_id": 6016
+    },
+    {
+      "name": "Social Networking",
+      "genre_id": 6005
+    },
+    {
+      "name": "Photo & Video",
+      "genre_id": 6008
+    },
+    {
+      "name": "Shopping",
+      "genre_id": 6024
+    },
+    {
+      "name": "Lifestyle",
+      "genre_id": 6012
+    }
+  ]
+}

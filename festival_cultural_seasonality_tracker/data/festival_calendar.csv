@@ -1,0 +1,54 @@
+event_id,event_name,event_type,event_date,region,search_terms,date_source,date_status
+OFF202501,Republic Day,Public holiday,2025-01-26,India (holiday list supplied by user),Republic Day;Republic Day,Holiday list supplied by user,User-provided date; verify against applicable state/official notification
+OFF202502,Id-ul-Fitr,Public holiday,2025-03-31,India (holiday list supplied by user),Id-ul-Fitr;Id-ul-Fitr,Holiday list supplied by user,User-provided date; verify against applicable state/official notification
+OFF202503,Mahavir Jayanti,Public holiday,2025-04-10,India (holiday list supplied by user),Mahavir Jayanti;Mahavir Jayanti,Holiday list supplied by user,User-provided date; verify against applicable state/official notification
+OFF202504,Good Friday,Public holiday,2025-04-18,India (holiday list supplied by user),Good Friday;Good Friday,Holiday list supplied by user,User-provided date; verify against applicable state/official notification
+OFF202505,Buddha Purnima,Public holiday,2025-05-12,India (holiday list supplied by user),Buddha Purnima;Buddha Purnima,Holiday list supplied by user,User-provided date; verify against applicable state/official notification
+OFF202506,Id-ul-Zuha,Public holiday,2025-06-07,India (holiday list supplied by user),Id-ul-Zuha;Id-ul-Zuha,Holiday list supplied by user,User-provided date; verify against applicable state/official notification
+OFF202507,Muharram,Public holiday,2025-07-06,India (holiday list supplied by user),Muharram;Muharram,Holiday list supplied by user,User-provided date; verify against applicable state/official notification
+OFF202508,Independence Day,Public holiday,2025-08-15,India (holiday list supplied by user),Independence Day;Independence Day,Holiday list supplied by user,User-provided date; verify against applicable state/official notification
+OFF202509,Id-e-Milad,Public holiday,2025-09-05,India (holiday list supplied by user),Id-e-Milad;Id-e-Milad,Holiday list supplied by user,User-provided date; verify against applicable state/official notification
+OFF202510,Mahatma Gandhi Birthday,Public holiday,2025-10-02,India (holiday list supplied by user),Mahatma Gandhi Birthday;Mahatma Gandhi Birthday,Holiday list supplied by user,User-provided date; verify against applicable state/official notification
+OFF202511,Dussehra (Vijayadashami),Public holiday,2025-10-02,India (holiday list supplied by user),Dussehra (Vijayadashami);Dussehra (Vijayadashami),Holiday list supplied by user,User-provided date; verify against applicable state/official notification
+OFF202512,Diwali (Deepavali),Public holiday,2025-10-20,India (holiday list supplied by user),Diwali (Deepavali);Diwali,Holiday list supplied by user,User-provided date; verify against applicable state/official notification
+OFF202513,Guru Nanak's Birthday,Public holiday,2025-11-05,India (holiday list supplied by user),Guru Nanak's Birthday;Guru Nanak's Birthday,Holiday list supplied by user,User-provided date; verify against applicable state/official notification
+OFF202514,Christmas Day,Public holiday,2025-12-25,India (holiday list supplied by user),Christmas Day;Christmas Day,Holiday list supplied by user,User-provided date; verify against applicable state/official notification
+OFF202615,Republic Day,Public holiday,2026-01-26,India (holiday list supplied by user),Republic Day;Republic Day,Holiday list supplied by user,User-provided date; verify against applicable state/official notification
+OFF202616,Id-ul-Fitr,Public holiday,2026-03-21,India (holiday list supplied by user),Id-ul-Fitr;Id-ul-Fitr,Holiday list supplied by user,User-provided date; verify against applicable state/official notification
+OFF202617,Mahavir Jayanti,Public holiday,2026-03-31,India (holiday list supplied by user),Mahavir Jayanti;Mahavir Jayanti,Holiday list supplied by user,User-provided date; verify against applicable state/official notification
+OFF202618,Good Friday,Public holiday,2026-04-03,India (holiday list supplied by user),Good Friday;Good Friday,Holiday list supplied by user,User-provided date; verify against applicable state/official notification
+OFF202619,Buddha Purnima,Public holiday,2026-05-01,India (holiday list supplied by user),Buddha Purnima;Buddha Purnima,Holiday list supplied by user,User-provided date; verify against applicable state/official notification
+OFF202620,Id-ul-Zuha,Public holiday,2026-05-27,India (holiday list supplied by user),Id-ul-Zuha;Id-ul-Zuha,Holiday list supplied by user,User-provided date; verify against applicable state/official notification
+OFF202621,Muharram,Public holiday,2026-06-26,India (holiday list supplied by user),Muharram;Muharram,Holiday list supplied by user,User-provided date; verify against applicable state/official notification
+OFF202622,Independence Day,Public holiday,2026-08-15,India (holiday list supplied by user),Independence Day;Independence Day,Holiday list supplied by user,User-provided date; verify against applicable state/official notification
+OFF202623,Id-e-Milad,Public holiday,2026-08-26,India (holiday list supplied by user),Id-e-Milad;Id-e-Milad,Holiday list supplied by user,User-provided date; verify against applicable state/official notification
+OFF202624,Mahatma Gandhi Birthday,Public holiday,2026-10-02,India (holiday list supplied by user),Mahatma Gandhi Birthday;Mahatma Gandhi Birthday,Holiday list supplied by user,User-provided date; verify against applicable state/official notification
+OFF202625,Dussehra (Vijay Dashmi),Public holiday,2026-10-20,India (holiday list supplied by user),Dussehra (Vijay Dashmi);Dussehra (Vijay Dashmi),Holiday list supplied by user,User-provided date; verify against applicable state/official notification
+OFF202626,Diwali (Deepavali),Public holiday,2026-11-08,India (holiday list supplied by user),Diwali (Deepavali);Diwali,Holiday list supplied by user,User-provided date; verify against applicable state/official notification
+E01,Diwali,Festival,2026-11-08,Pan-India,Diwali;Deepavali;Diwali shopping;Diwali gifts,Government of India / India Post,Official 2026 holiday listing
+E02,Govardhan Puja,Festival,2026-11-09,North India,Govardhan Puja;Annakut,Government of India / NLMC,2026 calendar listing
+E03,Bhai Dooj,Festival,2026-11-11,North India,Bhai Dooj;Bhaiya Dooj,Government of India / NLMC,2026 calendar listing
+E04,Chhath Puja,Festival,2026-11-15,North and East India,Chhath Puja;Chhath;Surya Shashthi,Government of India / NLMC,2026 calendar listing
+E05,Guru Nanak Jayanti,Festival,2026-11-24,Pan-India,Guru Nanak Jayanti;Gurpurab,India Post,Official 2026 holiday listing
+OFF202627,Guru Nanak's Birthday,Public holiday,2026-11-24,India (holiday list supplied by user),Guru Nanak's Birthday;Guru Nanak's Birthday,Holiday list supplied by user,User-provided date; verify against applicable state/official notification
+OFF202628,Christmas Day,Public holiday,2026-12-25,India (holiday list supplied by user),Christmas Day;Christmas Day,Holiday list supplied by user,User-provided date; verify against applicable state/official notification
+E06,Christmas,Seasonal holiday,2026-12-25,Pan-India,Christmas;Christmas gifts;Christmas songs,India Post,Official 2026 holiday listing
+E07,New Year's Eve,Seasonal moment,2026-12-31,Pan-India,New Year's Eve;New Year party;New Year wishes,Annual fixed date,Fixed annual date
+E08,New Year,Seasonal moment,2027-01-01,Pan-India,New Year;New Year resolutions;calendar,Annual fixed date,Fixed annual date
+E09,Makar Sankranti,Festival,2027-01-14,Pan-India,Makar Sankranti;Uttarayan;kite festival,Annual calendar; verify locally,Indicative date; verify regional observance
+E10,Pongal,Festival,2027-01-14,Tamil Nadu and South India,Pongal;Thai Pongal;Pongal recipes,Annual calendar; verify locally,Indicative date; verify regional observance
+E11,Republic Day,National event,2027-01-26,Pan-India,Republic Day;patriotic songs;parade,Annual fixed date,Fixed annual date
+E12,Basant Panchami,Festival,2027-02-11,North and East India,Basant Panchami;Saraswati Puja,Annual calendar; verify locally,Indicative date; verify regional observance
+E13,Maha Shivratri,Festival,2027-03-06,Pan-India,Maha Shivratri;Shivratri,Annual calendar; verify locally,Indicative date; verify regional observance
+E14,Eid al-Fitr,Festival,2027-03-10,Pan-India,Eid;Eid Mubarak;Eid outfits,Government holiday calendar,Moon-sighting dependent; confirm
+E18,Ugadi / Gudi Padwa,Festival,2027-03-19,South and West India,Ugadi;Gudi Padwa;Telugu New Year,Regional calendar; verify locally,Indicative date; verify region
+E15,Holi,Festival,2027-03-23,Pan-India,Holi;Holi colours;Holi songs,Government holiday calendar,2027 government holiday listing
+E16,Good Friday,Public holiday,2027-03-26,Pan-India,Good Friday;Easter weekend,Government holiday calendar,2027 government holiday listing
+E17,Easter,Seasonal moment,2027-03-28,Pan-India,Easter;Easter eggs;Easter recipes,Annual calendar; verify locally,Verify date against official calendar
+E20,Baisakhi,Festival,2027-04-14,North India,Baisakhi;Vaisakhi,Regional calendar; verify locally,Indicative date; verify region
+E19,Ram Navami,Festival,2027-04-15,Pan-India,Ram Navami;Ram bhajan,Government holiday calendar,2027 government holiday listing
+E21,Akshaya Tritiya,Festival,2027-05-09,Pan-India,Akshaya Tritiya;gold buying,Annual calendar; verify locally,Indicative date; verify locally
+E22,Eid al-Adha,Festival,2027-05-17,Pan-India,Bakrid;Eid al-Adha;Eid ul Adha,Government holiday calendar,Moon-sighting dependent; confirm
+E23,International Yoga Day,Seasonal moment,2027-06-21,Pan-India,Yoga Day;yoga;meditation,United Nations,Fixed annual date
+E24,Independence Day,National event,2027-08-15,Pan-India,Independence Day;tricolour;patriotic songs,Government holiday calendar,Fixed annual date
+E25,Onam,Festival,2027-08-25,Kerala,Onam;Onam sadya;Onam pookalam,Regional calendar; verify locally,Indicative date; verify Kerala calendar
